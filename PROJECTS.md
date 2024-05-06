@@ -41,13 +41,13 @@ This project is also part of the course which is used to classify images of dogs
 
 <div style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/shuraimi">
-    <img width="30px" src="https://raw.githubusercontent.com/Shuraimi/demo/cc9f1c96fc0e220cd90566cce7847a4041b95302/assets/img/linkedin%20(1).png" alt="Alt text">
+    <img width="30px" src="https://raw.githubusercontent.com/Shuraimi/portfolio/main/assets/linkedin%20(1).png" alt="Alt text">
   </a>
   <a href="https://www.github.com/Shuraimi">
-    <img width="30px" src="https://raw.githubusercontent.com/Shuraimi/demo/cc9f1c96fc0e220cd90566cce7847a4041b95302/assets/img/github-sign.png" alt="Alt text">
+    <img width="30px" src="https://raw.githubusercontent.com/Shuraimi/portfolio/main/assets/github-sign.png" alt="Alt text">
   </a>
   <a href="https://www.kaggle.com/shuraimshafiullab">
-    <img width="30px" src="https://raw.githubusercontent.com/Shuraimi/demo/main/assets/img/20240430_065909_0000.png" alt="Alt text">
+    <img width="30px" src="https://raw.githubusercontent.com/Shuraimi/portfolio/main/assets/20240430_065909_0000.png" alt="Alt text">
   </a>
 
 </div>
