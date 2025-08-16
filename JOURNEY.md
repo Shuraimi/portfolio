@@ -50,7 +50,14 @@ There are 3 projects in the course which explains throughly the workflow  we nee
 
 
 During this journey, I took a lot of breaks and overall this journey is of approx 2 years. 
-Currently I'm learning from the ZTM course and building a Dog Classification Project.
+
+### fast.ai Deep Learning Course
+
+I then took the fast.ai course where I learnt about Deep Learning, its history and also built a dog vs cat classifier easily. Using this knowledge, I then built a Pokemo image classification project which classifies an image given as input into one of the 120 classes its trained on. I also learnt about deploying models using gradio, how a digit classifier works (behing the scenes) using the MNIST dataset. I also learnt about Sentimeny Analysis and then the most interesting part was how to deal with structured datasets using Random Forests.
+
+### PyTorch by ZTM
+
+Then I started learning and understandong the PyTorch library from the fundamentals through Daniel Bourke Sir's PyTorch textbook which is availabel online. I'm still working on my PyTorch knowledge in order to build great solutions using DL.
 
 <div style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/shuraimi">
